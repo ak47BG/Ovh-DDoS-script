@@ -6,7 +6,7 @@ sudo apt-get nodejs
 
 sudo apt-get install npm
 
-git clone https://github.com/ak47BG/CFUnmitigate.git
+git clone https://github.com/ak47BG/Ovh-DDoS-script.git
 
 cd 'Folder(save the file into a folder)
 
